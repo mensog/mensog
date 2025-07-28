@@ -53,7 +53,7 @@
 ## 📫 Связаться со мной
 - **Email**: [m.massanino@gmail.com](mailto:m.massanino@gmail.com)
 - **Telegram**: [Aslan Abdulaev](https://t.me/abdulaev_corp)
-- **Телефон**: **Телефон**: +79389928158
+- **Телефон**: **Телефон**: [+79389928158](tel:+79389928158)
 
 
 - **Портфолио**: [HedHunter](http://groznyj.hh.ru/resume/d9feff9dff0b669b640039ed1f4843365a6d6b).
